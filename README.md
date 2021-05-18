@@ -24,25 +24,36 @@ For data visualization, I collected the effects of Covid-19 on fitness and weigh
 
 •	I got the ideas that the effects of Covid-19 can be in different areas from this site;
 https://www.tandfonline.com/doi/full/10.1080/19406940.2020.1851285
+
 •	I found the ideas that Covid-19 can cause overweight problems on this site;
 https://www.bbc.com/turkce/haberler-turkiye-53939416
+
 •	I used this article, which describes the effects of Covid-19 on sports clubs, to get an idea of the effects of Covid-19, which is my position, on our personal sports life;
 https://www.researchgate.net/publication/341106278_Covid-19_Salgini_ve_Spor_Sektorune_Etkileri_Covid-19_Pandemic_and_Its_Impact_on_Sports_Industry
+
 •	I have obtained information about the psychological conditions of people who do sports in their daily routine life during the pandemic period;
 •	http://www.gazetekadikoy.com.tr/spor/pandemi-doneminde-sporcu-psikolojik-h16623.html
+
 I got information about gyms and the process related to the pandemic here;
 https://www.milliyet.com.tr/cadde/berrin-pehlivan/spor-salonlari-ve-pandemi-6346126
 
 THE CHALLENGES OF DATA GATHERING
+
 Covid-19 affected our lives from many different points, but if we put it in order of importance, I had a hard time finding resources and data sets because sports and weight problems lagged behind the others. Apart from academic articles, I often found newspaper articles. I chose academic articles because they have more general approaches. I tried to stay out of position. I reviewed the datasets I found and made the necessary arrangements. Later, I visualized these data sets and added them to the system.
 
 REFERENCES
 •	COVID-19 Vikipedi, özgür ansiklopedi
+
 •	Türkiye Diyabet ve Obezite Dergisi / Turkish Journal of Diabetes and Obesity Derleme / Review
+
 •	Pandemi Döneminde Çocuklarda Obezite Riski December 2020
+
 •	Jonathan GrixORCID Simgesi,Paul Michael Brannagan,Holly Grimes &Ross NevilleORCID  / https://www.tandfonline.com/doi/full/10.1080/19406940.2020.1851285
+
 •	Fernando Duarte BBC World 28 Ağustos 2020 / https://www.bbc.com/turkce/haberler-turkiye-53939416
+
 •	Covid-19 Salgını ve Spor Sektörüne Etkileri Covid-19 Pandemic and Its Impact on Sports Industry
+
 •	June 2020 / https://www.researchgate.net/publication/341106278_Covid19_Salgini_ve_Spor_Sektorune_Etkileri_Covid-19_Pandemic_and_Its_Impact_on_Sports_Industry
 
 •	Gazete Kadıköy- Simge Kansu / http://www.gazetekadikoy.com.tr/spor/pandemi-doneminde-sporcu-psikolojik-h16623.html
