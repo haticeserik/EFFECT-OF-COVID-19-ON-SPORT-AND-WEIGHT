@@ -39,7 +39,7 @@ https://www.milliyet.com.tr/cadde/berrin-pehlivan/spor-salonlari-ve-pandemi-6346
 
 THE CHALLENGES OF DATA GATHERING
 
-Covid-19 affected our lives from many different points, but if we put it in order of importance, I had a hard time finding resources and data sets because sports and weight problems lagged behind the others. Apart from academic articles, I often found newspaper articles. I chose academic articles because they have more general approaches. I tried to stay out of position. I reviewed the datasets I found and made the necessary arrangements. Later, I visualized these data sets and added them to the system.
+Covid-19 affected our lives from many different points, but if we put it in order of importance, I had a hard time finding resources and data sets because sports and weight problems lagged behind the others. Apart from academic articles, I often found newspaper articles. I chose academic articles because they have more general approaches. I tried to stay out of position. During the pandemic process, I could not find any data or graphics where people doing sports decreased or increased. I reviewed the datasets I found and made the necessary arrangements. Later, I visualized these data sets and added them to the system.
 
 REFERENCES
 •	COVID-19 Vikipedi, özgür ansiklopedi
