@@ -58,6 +58,8 @@ REFERENCES
 
 •	Gazete Kadıköy- Simge Kansu / http://www.gazetekadikoy.com.tr/spor/pandemi-doneminde-sporcu-psikolojik-h16623.html
 
+•  https://www.ipsos.com/tr-tr/vatandaslar-salgin-basindan-bu-yana-ortalama-66-kilo-almis
+
 
 
 
